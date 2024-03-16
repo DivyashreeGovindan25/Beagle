@@ -1,0 +1,19 @@
+h2{
+    text-decoration: underline;
+}
+.beagle{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+#first-box{
+    border: 2px solid #000000;
+}
+img{
+    width: 1051px;
+    height: 762px;
+}
+
